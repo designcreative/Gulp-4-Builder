@@ -1,0 +1,20 @@
+{
+  "name": "Gulp-4-Builder",
+  "version": "1.0.0",
+  "description": "Simple Gulp builder for HTML templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designcreative/Gulp-4-Builder.git"
+  },
+  "keywords": [],
+  "author": "Alexander Rizhikoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/designcreative/Gulp-4-Builder/issues"
+  },
+  "homepage": "https://github.com/designcreative/Gulp-4-Builder#readme"
+}
